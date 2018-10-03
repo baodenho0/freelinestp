@@ -1,0 +1,19 @@
+.bg1{
+	background: #e0e0e0;
+	margin-bottom: 10px;
+}
+.bg2{
+	margin-top: 10px;
+}
+footer{
+	text-align: center;
+}
+.main{
+	padding-top: 10px;
+}
+.navbar{
+	margin-bottom: 7px;
+}
+.col-xs-6>.col-sm-6>.col-md-6{
+	background: #e0e0e0;
+}
